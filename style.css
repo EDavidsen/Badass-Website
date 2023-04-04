@@ -2,3 +2,11 @@ body {
     background-color: aliceblue;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+header {
+    font-size: large;
+}
+
+footer {
+    font-size: medium;
+}
